@@ -15,7 +15,7 @@ Generate student assignments as **Digital PDF**, **Realistic Handwritten Notes**
 
 ## 🚀 Live Demo
 
-[View on Vercel →](https://assignment-solver.vercel.app)
+[View on Vercel →](https://assignments-nine-blue.vercel.app)
 
 ## 🛠️ Tech Stack
 
